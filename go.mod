@@ -1,3 +1,3 @@
-module github.com/btertoolen/stravago
+module stravago
 
 go 1.22
